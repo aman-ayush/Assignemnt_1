@@ -1,0 +1,4 @@
+amanayush@amans-MacBook-Air python % python ex2.py
+ enter gross income 100000
+ no of dependents 4
+(' payable tax ', 15600.0)

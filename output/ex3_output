@@ -1,0 +1,7 @@
+amanayush@amans-MacBook-Air python % python ex3.py
+ enter your sid 21103102
+ enter name aman
+enter gender male
+enter course name cse
+enter cgpa 8.9
+[21103102, 'aman', 'male', 'cse', 8.9]

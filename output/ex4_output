@@ -1,0 +1,7 @@
+amanayush@amans-MacBook-Air python % python ex4.py
+students marks 98
+students marks 99
+students marks 67
+students marks 88
+students marks 67
+[67, 67, 88, 98, 99]
